@@ -1,0 +1,14 @@
+{
+  "itemGroup.pauldrons": "Pauldrons!",
+  "block.pauldrons.example_block": "Example Block",
+  "item.pauldrons.example_item": "Example Item",
+  "curios.identifier.custom": "Pauldron Slot",
+
+  "pauldrons.configuration.title": "Pauldrons Configs",
+  "pauldrons.configuration.section.pauldrons.common.toml": "Pauldrons Configs",
+  "pauldrons.configuration.section.pauldrons.common.toml.title": "Pauldrons Configs",
+  "pauldrons.configuration.items": "Item List",
+  "pauldrons.configuration.logDirtBlock": "Log Dirt Block",
+  "pauldrons.configuration.magicNumberIntroduction": "Magic Number Text",
+  "pauldrons.configuration.magicNumber": "Magic Number"
+}
